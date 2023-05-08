@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1676028886471,491,Login,200,,Thread Group 1-7,text,true,,253653,280,11,11,https://member.daraz.com.bd/user/login,268,0,175
+1676028886196,771,Login,200,,Thread Group 1-4,text,true,,253741,280,10,10,https://member.daraz.com.bd/user/login,538,0,456
+1676028886287,685,Login,200,,Thread Group 1-5,text,true,,253708,280,9,9,https://member.daraz.com.bd/user/login,454,0,362
+1676028885924,1053,Login,200,,Thread Group 1-1,text,true,,253717,280,8,8,https://member.daraz.com.bd/user/login,817,0,725
+1676028886379,600,Login,200,,Thread Group 1-6,text,true,,253717,280,7,7,https://member.daraz.com.bd/user/login,368,0,279
+1676028886103,882,Login,200,,Thread Group 1-3,text,true,,253731,280,6,6,https://member.daraz.com.bd/user/login,644,0,558
+1676028886560,473,Login,200,,Thread Group 1-8,text,true,,253717,280,5,5,https://member.daraz.com.bd/user/login,255,0,175
+1676028886023,1024,Login,200,,Thread Group 1-2,text,true,,253725,280,4,4,https://member.daraz.com.bd/user/login,750,0,658
+1676028886652,488,Login,200,,Thread Group 1-9,text,true,,253701,280,3,3,https://member.daraz.com.bd/user/login,256,0,175
+1676028886743,469,Login,200,,Thread Group 1-10,text,true,,253733,280,2,2,https://member.daraz.com.bd/user/login,266,0,187
+1676028886834,466,Login,200,,Thread Group 1-11,text,true,,253725,280,1,1,https://member.daraz.com.bd/user/login,267,0,190
